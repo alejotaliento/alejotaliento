@@ -12,4 +12,6 @@ const ale = {
 };
 ```
 
+<p align="center">
 [![alejotaliento's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejotaliento&theme=gruvbox)](https://github.com/alejotaliento/github-readme-stats)
+</p>
