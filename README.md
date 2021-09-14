@@ -12,7 +12,7 @@ const ale = {
 };
 ```
 <div aling="center">
-  [![alejotaliento's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejotaliento&show_icons=true&theme=radical)](https://github.com/alejotaliento/github-     readme-stats)
+  [![alejotaliento's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejotaliento&show_icons=true&theme=radical)](https://github.com/alejotaliento/github-readme-stats)
 </div>
 
 <a href="https://github.com/alejotaliento/convoychat">
