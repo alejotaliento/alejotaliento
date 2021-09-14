@@ -11,9 +11,8 @@ const ale = {
     "I am doing the #100DaysOfCode challenge focused on react and typescript",
 };
 ```
-<div aling="center">
-  [![alejotaliento's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejotaliento&show_icons=true&theme=radical)](https://github.com/alejotaliento/github-readme-stats)
-</div>
+
+[![alejotaliento's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejotaliento&theme=radical)](https://github.com/alejotaliento/github-readme-stats)
 
 <a href="https://github.com/alejotaliento/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alejotaliento&repo=convoychat" />
