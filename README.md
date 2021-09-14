@@ -12,4 +12,4 @@ const ale = {
 };
 ```
 
-[![alejotaliento's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![alejotaliento's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejotaliento)](https://github.com/alejotaliento/github-readme-stats)
