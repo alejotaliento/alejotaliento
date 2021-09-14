@@ -2,7 +2,7 @@
 
 ```js
 const ale = {
-  pronouns: "she" | "her",
+  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Java],
   tools: [React, Node, Storybook, Styled - Components, Jest, Docker],
   architecture: ["microservices", "design system pattern"],
@@ -12,4 +12,4 @@ const ale = {
 };
 ```
 
-[![alejotaliento's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejotaliento&theme=radical)](https://github.com/alejotaliento/github-readme-stats)
+[![alejotaliento's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejotaliento&theme=gruvbox)](https://github.com/alejotaliento/github-readme-stats)
