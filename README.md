@@ -4,7 +4,7 @@
 const ale = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Java],
-  tools: [React, Node, Storybook, Styled - Components, Jest, Docker],
+  tools: [Next, React, Angular, Node, Storybook, Jest, Docker],
 
   challenge:
     "I am doing the #100DaysOfCode challenge focused on react and typescript",
